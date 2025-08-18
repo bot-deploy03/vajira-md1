@@ -9,7 +9,7 @@
     "stop":"pm2 stop vajira",
     "restart":"pm2 restart vajira"},
   "dependencies":{
-    "@whiskeysockets/baileys": "github:AxellNetwork/Baileys",
+    "@whiskeysockets/baileys": "^6.7.18",
     "@adiwajshing/keyed-db":"^0.2.4",
     "@blackamda/telegram-image-url":"^1.0.0",
     "@bochilteam/scraper":"^4.0.22-alpha.0",
